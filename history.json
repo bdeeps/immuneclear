@@ -1,0 +1,925 @@
+{
+  "title": "The history of the immune system",
+  "tagline": "From plague survivors in Athens and smallpox scabs in China to cowpox, eating cells, antibodies, and the end of smallpox and polio in India.",
+  "intro": "For thousands of years people noticed that surviving some diseases protected you from them, and some cultures risked a mild dose to stay safe. Jenner turned that into the first vaccine. Then microscopes and experiments revealed the army behind it: eater cells, antibodies, T cells and B cells that learn and remember. That knowledge wiped out smallpox, drove polio out of India, and produced COVID-19 vaccines in less than a year.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Surviving once",
+      "from": -430,
+      "to": 1790,
+      "color": "#c49bff",
+      "summary": "Plague survivors, and variolation in China, India, Turkey and West Africa: a risky mild dose to prevent a deadly one."
+    },
+    {
+      "id": "vaccines",
+      "name": "The first vaccines",
+      "from": 1796,
+      "to": 1900,
+      "color": "#ffd166",
+      "summary": "Jenner’s cowpox, Pasteur’s weakened germs, Metchnikoff’s eating cells, antitoxins, and Haffkine’s vaccines in India."
+    },
+    {
+      "id": "cells",
+      "name": "Finding the army",
+      "from": 1900,
+      "to": 1980,
+      "color": "#8ef0ff",
+      "summary": "Allergy, antibiotics, clonal selection, T cells, dendritic cells and monoclonal antibodies."
+    },
+    {
+      "id": "eradicate",
+      "name": "Wiping diseases out",
+      "from": 1966,
+      "to": 2014,
+      "color": "#6ee7a8",
+      "summary": "Smallpox eradicated, HIV found, India’s Universal Immunisation Programme and the long fight against polio."
+    },
+    {
+      "id": "fast",
+      "name": "Vaccines at speed",
+      "from": 2005,
+      "to": 2026,
+      "color": "#ff9fc0",
+      "summary": "mRNA vaccines, and COVID-19 vaccines including India’s Covaxin, made in under a year."
+    }
+  ],
+  "events": [
+    {
+      "year": -430,
+      "date": "c. 430 BCE",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Survivors don’t catch it twice",
+      "who": "Thucydides",
+      "where": "Athens",
+      "country": "Greece",
+      "text": "During a terrible plague in Athens, the historian Thucydides noticed that people who recovered could nurse the sick safely, because the disease never attacked the same person twice, at least not fatally.",
+      "why": "It is one of the oldest written notes of immunity: surviving a disease can protect you from it.",
+      "box": "memory",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1570,
+      "date": "16th century (the earliest reliable accounts; some claim older)",
+      "era": "ancient",
+      "art": "scroll",
+      "title": "Blowing smallpox scabs up the nose",
+      "who": "Chinese physicians",
+      "where": "China",
+      "country": "China",
+      "text": "Chinese doctors ground up dried scabs from mild smallpox cases and blew the powder into a healthy child’s nose. The child usually got a mild illness and was then protected. Historians date reliable accounts to the 1500s; claims of a much older practice are uncertain.",
+      "why": "Deliberately giving a mild dose of a disease, called variolation, was the first attempt to train the immune system.",
+      "box": "memory",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1721,
+      "date": "1721",
+      "era": "ancient",
+      "art": "person",
+      "title": "Variolation reaches Europe and America",
+      "who": "Lady Mary Wortley Montagu; Onesimus and Cotton Mather",
+      "where": "London, England; Boston, America",
+      "country": "England",
+      "text": "Lady Mary Wortley Montagu had seen variolation in Constantinople and had her daughter inoculated in London in 1721. In Boston the same year, an enslaved West African man, Onesimus, told Cotton Mather how it was done in his homeland, and inoculation was tried during an epidemic.",
+      "why": "Knowledge from Turkey and West Africa brought the idea to Europe and America.",
+      "box": "memory",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1767,
+      "date": "described 1767; how old the practice was is disputed",
+      "era": "ancient",
+      "art": "scroll",
+      "title": "Tika: variolation in Bengal",
+      "who": "Inoculators described by J. Z. Holwell",
+      "where": "Bengal",
+      "country": "India",
+      "text": "A British doctor, John Zephaniah Holwell, described travelling inoculators in Bengal who scratched smallpox matter into the skin and then cared for the patient. Some writers claimed the practice was ancient, but no old Sanskrit text describing it has been found, so its age is uncertain.",
+      "why": "It shows variolation was spread across Asia before vaccines existed.",
+      "box": "memory",
+      "sources": [
+        3,
+        1
+      ]
+    },
+    {
+      "year": 1796,
+      "date": "14 May 1796",
+      "era": "vaccines",
+      "art": "person",
+      "key": true,
+      "title": "Cowpox protects against smallpox",
+      "who": "Edward Jenner",
+      "where": "Berkeley, England",
+      "country": "England",
+      "text": "Jenner scratched material from a cowpox sore on a milkmaid’s hand into the arm of eight-year-old James Phipps. Weeks later he exposed the boy to smallpox, and Phipps did not fall ill. Cowpox is Latin vacca, cow, which gave us the word vaccine.",
+      "why": "It was the first vaccine: a mild, related germ that trained the body to resist a deadly one.",
+      "box": "memory",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1802,
+      "date": "14 June 1802",
+      "era": "vaccines",
+      "art": "person",
+      "title": "India’s first vaccination",
+      "who": "Anna Dusthall",
+      "where": "Bombay (Mumbai)",
+      "country": "India",
+      "text": "Smallpox vaccine lymph reached India in May 1802, carried along a chain of vaccinated people. A three-year-old girl in Bombay, Anna Dusthall, became the first person in India to be vaccinated, on 14 June 1802.",
+      "why": "Vaccination arrived in India just six years after Jenner’s experiment.",
+      "box": "memory",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882",
+      "era": "vaccines",
+      "art": "cell",
+      "key": true,
+      "title": "Cells that eat invaders",
+      "who": "Élie Metchnikoff",
+      "where": "Messina, Sicily",
+      "country": "Italy",
+      "text": "Watching see-through starfish larvae under a microscope, Metchnikoff pushed rose thorns into them. The next morning, moving cells had crowded around the thorns. He named such cells phagocytes, “eating cells”, and argued they defend the body.",
+      "why": "It was the discovery of innate immunity: neutrophils and macrophages at work, like the splinter in chapter 2.",
+      "box": "innate",
+      "sources": [
+        9,
+        39
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "1879–1885",
+      "era": "vaccines",
+      "art": "flask",
+      "key": true,
+      "title": "Weakened germs make vaccines",
+      "who": "Louis Pasteur and colleagues",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Pasteur found that old, weakened chicken cholera germs protected hens (1879). He made an anthrax vaccine for sheep (1881), and on 6 July 1885 his team gave a rabies vaccine to nine-year-old Joseph Meister, who had been bitten by a rabid dog. He survived.",
+      "why": "Pasteur showed vaccines could be made on purpose in the lab by weakening a germ.",
+      "box": "memory",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "December 1890",
+      "era": "vaccines",
+      "art": "flask",
+      "key": true,
+      "title": "Antitoxin: blood that fights a poison",
+      "who": "Emil von Behring and Kitasato Shibasaburō",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Von Behring and the Japanese scientist Kitasato showed that the blood serum of animals that survived tetanus or diphtheria could neutralise the germ’s poison and protect other animals. Serum therapy soon saved many children with diphtheria.",
+      "why": "It revealed antibodies in the blood, and it won the first Nobel Prize in medicine in 1901.",
+      "box": "adaptive",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1893–1897",
+      "era": "vaccines",
+      "art": "flask",
+      "title": "Cholera and plague vaccines tested in India",
+      "who": "Waldemar Haffkine",
+      "where": "Calcutta and Bombay",
+      "country": "India",
+      "text": "Haffkine tested his cholera vaccine on thousands of people in India from 1893. When plague struck Bombay in 1896, he made a plague vaccine in a makeshift lab and tried it on himself first, in January 1897. His Bombay lab later became the Haffkine Institute.",
+      "why": "It is often called the first vaccine developed in India.",
+      "box": "memory",
+      "sources": [
+        12,
+        3
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1897–1900",
+      "era": "vaccines",
+      "art": "antibody",
+      "title": "Receptors and magic bullets",
+      "who": "Paul Ehrlich",
+      "where": "Frankfurt, Germany",
+      "country": "Germany",
+      "text": "Ehrlich proposed that cells carry “side chains” that grab a toxin like a lock and key, and that cells release extra copies into the blood as antitoxins. He dreamed of “magic bullets”: medicines that hit only germs. He shared the 1908 Nobel Prize with Metchnikoff.",
+      "why": "His lock-and-key idea is how we still picture antibodies binding antigens.",
+      "box": "adaptive",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "cells",
+      "art": "waterdrop",
+      "title": "Anaphylaxis: when the defence harms",
+      "who": "Charles Richet and Paul Portier",
+      "where": "Monaco and Paris",
+      "country": "France",
+      "text": "Trying to protect dogs against sea-anemone poison, Richet and Portier found that a second small dose, weeks later, caused a sudden, violent reaction. They called it anaphylaxis, “against protection”.",
+      "why": "It was the first clue that the immune system can overreact, the basis of allergy.",
+      "box": "health",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "September 1928",
+      "era": "cells",
+      "art": "flask",
+      "title": "Penicillin, the first antibiotic",
+      "who": "Alexander Fleming",
+      "where": "London, England",
+      "country": "England",
+      "text": "Fleming noticed that a mould growing on a dish of bacteria had killed the bacteria around it. The substance, penicillin, was turned into a medicine in the 1940s by Howard Florey, Ernst Chain and colleagues. Fleming warned that misuse could make bacteria resistant.",
+      "why": "Antibiotics help the immune system against bacteria, but not against viruses.",
+      "box": "health",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "August 1948",
+      "era": "cells",
+      "art": "flask",
+      "title": "BCG vaccinations begin in India",
+      "who": "King Institute, Guindy",
+      "where": "Madras (Chennai)",
+      "country": "India",
+      "text": "A BCG vaccine laboratory was set up at the King Institute in Guindy, and vaccination against tuberculosis began in August 1948. BCG, a weakened cousin of the TB germ, is still given to Indian babies at birth.",
+      "why": "It began one of the world’s largest vaccination efforts.",
+      "box": "memory",
+      "sources": [
+        3,
+        38
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "12 April 1955",
+      "era": "cells",
+      "art": "waterdrop",
+      "title": "The polio vaccine works",
+      "who": "Jonas Salk and a trial of about 1.8 million children",
+      "where": "Pittsburgh and across the USA",
+      "country": "USA",
+      "text": "A huge field trial showed that Jonas Salk’s killed-virus polio vaccine was safe and effective. Albert Sabin’s weakened, oral vaccine followed, and oral drops later became the main tool of India’s Pulse Polio campaign.",
+      "why": "Polio, which paralysed hundreds of thousands of children a year, could now be stopped.",
+      "box": "memory",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1957",
+      "era": "cells",
+      "art": "cell",
+      "key": true,
+      "title": "Clonal selection: the right cell multiplies",
+      "who": "Frank Macfarlane Burnet",
+      "where": "Melbourne",
+      "country": "Australia",
+      "text": "Burnet proposed that each lymphocyte carries a receptor of one shape. When a germ fits it, that one cell is selected and multiplies into a clone of identical cells, some of which remember the germ. Experiments soon proved him right.",
+      "why": "It explains how the immune system learns and remembers, the heart of chapters 3 and 4.",
+      "box": "adaptive",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "1961",
+      "era": "cells",
+      "art": "gland",
+      "title": "What the thymus is for",
+      "who": "Jacques Miller",
+      "where": "London, England",
+      "country": "England",
+      "text": "Doctors had long thought the thymus was useless. Miller removed it from newborn mice and found they could not reject skin grafts or fight infections well. The thymus, he showed, makes the lymphocytes later called T cells.",
+      "why": "It found where T cells are trained.",
+      "box": "anatomy",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "cells",
+      "art": "cell",
+      "title": "The scouts are found",
+      "who": "Ralph Steinman and Zanvil Cohn",
+      "where": "New York",
+      "country": "USA",
+      "text": "Looking at mouse spleens under the microscope, Steinman spotted cells with long branching arms and named them dendritic cells. He showed they are the scouts that wake up T cells. He won the 2011 Nobel Prize, awarded days after his death.",
+      "why": "It explained how the adaptive immune system is switched on.",
+      "box": "adaptive",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "7 August 1975",
+      "era": "cells",
+      "art": "antibody",
+      "key": true,
+      "title": "Monoclonal antibodies",
+      "who": "Georges Köhler and César Milstein",
+      "where": "Cambridge, England",
+      "country": "England",
+      "text": "Köhler and Milstein fused an antibody-making B cell with a cancer cell that never stops dividing. The hybrid made endless copies of one single antibody. They chose not to patent it, so labs everywhere could use it.",
+      "why": "Monoclonal antibodies are now used in pregnancy tests, COVID tests and many cancer and arthritis medicines.",
+      "box": "adaptive",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "May 1975",
+      "era": "eradicate",
+      "art": "earth",
+      "title": "India’s last smallpox case",
+      "who": "India’s National Smallpox Eradication Programme with WHO",
+      "where": "Assam",
+      "country": "India",
+      "text": "After a massive search-and-contain campaign, with health workers visiting every village to find cases and vaccinate everyone around them, India recorded its last case of smallpox in 1975. India was declared smallpox-free in 1977.",
+      "why": "India, once home to most of the world’s smallpox cases, had beaten the disease.",
+      "box": "memory",
+      "sources": [
+        3,
+        24
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "8 May 1980",
+      "era": "eradicate",
+      "art": "earth",
+      "key": true,
+      "title": "Smallpox is wiped out",
+      "who": "World Health Assembly",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "After the last natural case, in Somalia in 1977, the World Health Assembly declared smallpox eradicated. A disease that killed an estimated 300 million people in the 20th century alone was gone.",
+      "why": "It is still the only human disease ever eradicated, proof that vaccines plus herd immunity work.",
+      "box": "memory",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "May 1983",
+      "era": "eradicate",
+      "art": "cell",
+      "title": "The virus behind AIDS is found",
+      "who": "Françoise Barré-Sinoussi and Luc Montagnier",
+      "where": "Institut Pasteur, Paris",
+      "country": "France",
+      "text": "Barré-Sinoussi and Montagnier found a new virus in a lymph node from a patient. It was later named HIV, the human immunodeficiency virus. It infects helper T cells. They shared the 2008 Nobel Prize.",
+      "why": "Knowing the cause led to blood tests and, later, medicines that control HIV.",
+      "box": "health",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "1985",
+      "era": "eradicate",
+      "art": "person",
+      "key": true,
+      "title": "The Universal Immunisation Programme",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India expanded its 1978 Expanded Programme on Immunization into the Universal Immunisation Programme, covering six diseases at first. Today it offers free vaccines against 12 diseases to about 2.67 crore newborns and 2.9 crore pregnant women each year.",
+      "why": "It is one of the largest public health programmes in the world.",
+      "box": "memory",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "era": "eradicate",
+      "art": "flask",
+      "title": "India’s first HIV cases are found",
+      "who": "Suniti Solomon and her student Sellappan Nirmala",
+      "where": "Madras (Chennai)",
+      "country": "India",
+      "text": "Dr Suniti Solomon and her student tested blood samples in Madras and found India’s first confirmed HIV infections. Solomon went on to set up care and counselling for people with HIV and fought the stigma around it.",
+      "why": "It started India’s response to HIV, which now includes free treatment for everyone who needs it.",
+      "box": "health",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "9 December 1995",
+      "era": "eradicate",
+      "art": "waterdrop",
+      "title": "Pulse Polio: two drops for every child",
+      "who": "Government of India, WHO, UNICEF, Rotary and millions of volunteers",
+      "where": "All of India",
+      "country": "India",
+      "text": "India held its first national polio immunisation day, giving oral polio drops to every child under five on the same day, at booths, bus stands, railway stations and homes. The drives were repeated for years.",
+      "why": "Reaching every child at once cut off the virus’s chances to spread: herd immunity in action.",
+      "box": "memory",
+      "sources": [
+        32,
+        3
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "fast",
+      "art": "molecule",
+      "title": "A trick that makes mRNA vaccines possible",
+      "who": "Katalin Karikó and Drew Weissman",
+      "where": "Philadelphia",
+      "country": "USA",
+      "text": "Karikó and Weissman found that swapping one building block of mRNA kept it from setting off alarm bells in the immune system. Their work, long ignored, made mRNA vaccines practical. They won the 2023 Nobel Prize.",
+      "why": "It let scientists design a new vaccine in days once a virus’s genes were known.",
+      "box": "memory",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "13 January 2011",
+      "era": "eradicate",
+      "art": "waterdrop",
+      "title": "India’s last case of wild polio",
+      "who": "A girl in Howrah district",
+      "where": "West Bengal",
+      "country": "India",
+      "text": "A young girl in Howrah district, West Bengal, was paralysed by wild poliovirus. She was India’s last case. As recently as 2009, India had 741 cases, the most in the world.",
+      "why": "Many experts had thought India would be the hardest place on Earth to beat polio.",
+      "box": "memory",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "27 March 2014",
+      "era": "eradicate",
+      "art": "trophy",
+      "key": true,
+      "title": "India is certified polio-free",
+      "who": "WHO South-East Asia Region",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "After three years with no wild polio cases, the WHO certified the South-East Asia Region, including India, polio-free. Children in India still get polio vaccine, because the virus survives in a few other countries.",
+      "why": "It showed that high vaccine coverage can wipe a disease out even in a huge, crowded country.",
+      "box": "memory",
+      "sources": [
+        31,
+        29
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "8 December 2020",
+      "era": "fast",
+      "art": "antibody",
+      "title": "The first COVID-19 vaccines",
+      "who": "Pfizer-BioNTech and others",
+      "where": "Coventry, England",
+      "country": "England",
+      "text": "Less than a year after the new coronavirus was identified, 90-year-old Margaret Keenan became the first person to receive an approved COVID-19 vaccine outside a trial. Vaccines made in several ways followed within weeks.",
+      "why": "It was the fastest vaccine development in history, built on decades of earlier work.",
+      "box": "memory",
+      "sources": [
+        37
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "3 and 16 January 2021",
+      "era": "fast",
+      "art": "flask",
+      "key": true,
+      "title": "Covaxin, India’s own COVID-19 vaccine",
+      "who": "Bharat Biotech with ICMR and the National Institute of Virology",
+      "where": "Hyderabad and Pune",
+      "country": "India",
+      "text": "On 3 January 2021 India’s drug regulator approved Covaxin, a killed-virus vaccine made in India, and Covishield, made by the Serum Institute of India, for emergency use. India’s vaccination drive began on 16 January 2021 and gave more than two billion doses.",
+      "why": "India made and gave vaccines on a scale few countries could match.",
+      "box": "memory",
+      "sources": [
+        34,
+        35,
+        36
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First vaccine",
+      "value": "1796",
+      "who": "Edward Jenner, England"
+    },
+    {
+      "label": "First vaccination in India",
+      "value": "14 June 1802",
+      "who": "Anna Dusthall, Bombay"
+    },
+    {
+      "label": "Eating cells (phagocytes) described",
+      "value": "1882",
+      "who": "Élie Metchnikoff, Messina"
+    },
+    {
+      "label": "First vaccine developed in India",
+      "value": "1897",
+      "who": "Waldemar Haffkine’s plague vaccine, Bombay"
+    },
+    {
+      "label": "First Nobel Prize in medicine",
+      "value": "1901",
+      "who": "Emil von Behring, for antitoxin"
+    },
+    {
+      "label": "First human disease eradicated",
+      "value": "1980",
+      "who": "Smallpox, World Health Assembly"
+    },
+    {
+      "label": "India certified polio-free",
+      "value": "27 March 2014",
+      "who": "WHO South-East Asia Region"
+    }
+  ],
+  "people": [
+    {
+      "name": "Edward Jenner",
+      "life": "1749 – 1823",
+      "role": "Country doctor",
+      "from": "Berkeley, England",
+      "note": "Made the first vaccine, from cowpox."
+    },
+    {
+      "name": "Louis Pasteur",
+      "life": "1822 – 1895",
+      "role": "Chemist and microbiologist",
+      "from": "Dole, France",
+      "note": "Weakened germs on purpose to make vaccines against anthrax and rabies."
+    },
+    {
+      "name": "Élie Metchnikoff",
+      "life": "1845 – 1916",
+      "role": "Zoologist",
+      "from": "Kharkiv region (now Ukraine)",
+      "note": "Discovered phagocytes, the cells that eat invaders."
+    },
+    {
+      "name": "Kitasato Shibasaburō",
+      "life": "1853 – 1931",
+      "role": "Bacteriologist",
+      "from": "Kumamoto, Japan",
+      "note": "Co-discovered antitoxin with von Behring and grew the tetanus germ in pure culture."
+    },
+    {
+      "name": "Waldemar Haffkine",
+      "life": "1860 – 1930",
+      "role": "Bacteriologist",
+      "from": "Odesa (now Ukraine), worked in India",
+      "note": "Made cholera and plague vaccines in India and tested them on himself first."
+    },
+    {
+      "name": "Frank Macfarlane Burnet",
+      "life": "1899 – 1985",
+      "role": "Virologist and immunologist",
+      "from": "Traralgon, Australia",
+      "note": "Explained how the immune system learns with clonal selection."
+    },
+    {
+      "name": "Suniti Solomon",
+      "life": "1938 – 2015",
+      "role": "Microbiologist and doctor",
+      "from": "Chennai, India",
+      "note": "Found India’s first HIV cases and built care for people living with HIV."
+    },
+    {
+      "name": "Katalin Karikó",
+      "life": "born 1955",
+      "role": "Biochemist",
+      "from": "Szolnok, Hungary",
+      "note": "With Drew Weissman, made mRNA vaccines possible."
+    }
+  ],
+  "series": [
+    {
+      "id": "poliocases",
+      "title": "Wild polio cases in India each year",
+      "unit": "cases",
+      "log": true,
+      "after": "eradicate",
+      "caption": "Confirmed wild poliovirus cases (National Polio Surveillance Project, via GPEI, CDC and Indian J Community Med). Cases rose and fell in outbreaks until coverage got high enough, then dropped to zero.",
+      "points": [
+        {
+          "year": 1998,
+          "value": 1934,
+          "label": "1998: 1,934 cases"
+        },
+        {
+          "year": 2002,
+          "value": 1600,
+          "label": "2002: 1,600, a big outbreak"
+        },
+        {
+          "year": 2006,
+          "value": 676,
+          "label": "2006: 676"
+        },
+        {
+          "year": 2007,
+          "value": 874,
+          "label": "2007: 874"
+        },
+        {
+          "year": 2008,
+          "value": 559,
+          "label": "2008: 559"
+        },
+        {
+          "year": 2009,
+          "value": 741,
+          "label": "2009: 741, the most in the world"
+        },
+        {
+          "year": 2010,
+          "value": 42,
+          "label": "2010: 42"
+        },
+        {
+          "year": 2011,
+          "value": 1,
+          "label": "2011: 1, the last case (13 January)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The word vaccine comes from vacca, Latin for cow, because the first vaccine used cowpox.",
+    "Your marrow makes about 100 billion new neutrophils every day, and most live for only about a day.",
+    "Smallpox is the only human disease ever eradicated. Polio is close: wild polio now survives in only two countries.",
+    "Measles is so contagious that about 19 in every 20 people must be immune to stop it spreading.",
+    "Köhler and Milstein chose not to patent monoclonal antibodies, which now earn billions as medicines."
+  ],
+  "sources": [
+    {
+      "title": "Plague of Athens",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/plague-of-Athens"
+    },
+    {
+      "title": "Variolation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Variolation"
+    },
+    {
+      "title": "History of smallpox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_smallpox"
+    },
+    {
+      "title": "A brief history of vaccines and vaccination in India (Lahariya, Indian J Med Res 139:491, 2014)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4078488/"
+    },
+    {
+      "title": "Lady Mary Wortley Montagu",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Lady-Mary-Wortley-Montagu"
+    },
+    {
+      "title": "Edward Jenner",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Edward-Jenner"
+    },
+    {
+      "title": "Edward Jenner and the history of smallpox and vaccination (Riedel, Proc Bayl Univ Med Cent 18:21, 2005)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/"
+    },
+    {
+      "title": "Louis Pasteur",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Louis-Pasteur"
+    },
+    {
+      "title": "Louis Pasteur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "title": "Ilya Mechnikov: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1908/mechnikov/facts/"
+    },
+    {
+      "title": "Emil von Behring: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/facts/"
+    },
+    {
+      "title": "Kitasato Shibasaburo",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kitasato-Shibasaburo"
+    },
+    {
+      "title": "Waldemar Mordecai Wolff Haffkine",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Waldemar-Mordecai-Wolff-Haffkine"
+    },
+    {
+      "title": "Paul Ehrlich: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/facts/"
+    },
+    {
+      "title": "Charles Richet: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1913/richet/facts/"
+    },
+    {
+      "title": "Sir Alexander Fleming: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/facts/"
+    },
+    {
+      "title": "Jonas Salk",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jonas-Salk"
+    },
+    {
+      "title": "Sir Frank Macfarlane Burnet: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1960/burnet/facts/"
+    },
+    {
+      "title": "Clonal selection",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clonal_selection"
+    },
+    {
+      "title": "Jacques Miller",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Miller"
+    },
+    {
+      "title": "Ralph M. Steinman: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/2011/steinman/facts/"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1984: press release",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/1984/press-release/"
+    },
+    {
+      "title": "Monoclonal antibody",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monoclonal_antibody"
+    },
+    {
+      "title": "Smallpox",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/health-topics/smallpox"
+    },
+    {
+      "title": "Smallpox Eradication Programme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smallpox_Eradication_Programme"
+    },
+    {
+      "title": "Francoise Barre-Sinoussi: facts",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/2008/barre-sinoussi/facts/"
+    },
+    {
+      "title": "Suniti Solomon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Suniti_Solomon"
+    },
+    {
+      "title": "Universal Immunization Programme (UIP)",
+      "publisher": "National Health Mission, Government of India",
+      "url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=824&lid=220"
+    },
+    {
+      "title": "Universal Immunisation Programme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Universal_Immunisation_Programme"
+    },
+    {
+      "title": "Polio in India: fact sheet",
+      "publisher": "Global Polio Eradication Initiative",
+      "url": "https://polioeradication.org/wp-content/uploads/2016/07/PolioIndiaFactSheet.pdf"
+    },
+    {
+      "title": "Progress toward poliomyelitis eradication: India, January 2010 to September 2011 (MMWR 60:1482)",
+      "publisher": "US CDC",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6043a3.htm"
+    },
+    {
+      "title": "Polio eradication",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polio_eradication"
+    },
+    {
+      "title": "Pulse Polio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pulse_Polio"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 2023: press release",
+      "publisher": "The Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/"
+    },
+    {
+      "title": "Covaxin emergency use authorisation (press release, 3 January 2021)",
+      "publisher": "Bharat Biotech",
+      "url": "https://www.bharatbiotech.com/images/press/bharat-biotech-covaxin-emergency-use-authorization-approval-by-dcgi-cdsco-moh-and-fw.pdf"
+    },
+    {
+      "title": "Covaxin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Covaxin"
+    },
+    {
+      "title": "COVID-19 vaccination in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_India"
+    },
+    {
+      "title": "Pfizer-BioNTech COVID-19 vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
+    },
+    {
+      "title": "BCG vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BCG_vaccine"
+    },
+    {
+      "title": "Elie Metchnikoff",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Elie-Metchnikoff"
+    },
+    {
+      "title": "India without poliomyelitis: time to make it a reality (Indian J Community Med 37:1, 2012)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3326799/"
+    },
+    {
+      "title": "Herd immunity: a rough guide (Fine, Eames & Heymann, Clin Infect Dis 52:911, 2011)",
+      "publisher": "Oxford Academic",
+      "url": "https://academic.oup.com/cid/article/52/7/911/299077"
+    }
+  ]
+}

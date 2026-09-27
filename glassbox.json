@@ -1,0 +1,107 @@
+{
+  "slug": "immuneclear",
+  "box": 49,
+  "date": "2026-10-07",
+  "title": "ImmuneClear",
+  "question": "How does the immune system work?",
+  "hook": "Every day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.",
+  "thumbText": "HOW YOUR IMMUNE SYSTEM WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "immune system",
+    "lymphatic system",
+    "white blood cells",
+    "antibodies",
+    "vaccines",
+    "herd immunity",
+    "inflammation",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "An army spread through your body",
+      "text": "Immune cells are born in the red bone marrow, T cells are trained in the thymus, and they gather in about 600 lymph nodes, the tonsils, the spleen and the gut's Peyer's patches. Lymph vessels link them and return 2–3 litres of fluid a day to the blood."
+    },
+    {
+      "title": "Walls, fire and hungry cells",
+      "text": "Skin, the airway's mucus escalator and stomach acid stop most germs. When a splinter breaks through, vessels widen and leak (redness, heat, swelling) and neutrophils squeeze out to swallow bacteria. Above about 100,000 bacteria the fight can be lost."
+    },
+    {
+      "title": "Learning the enemy",
+      "text": "A dendritic cell carries pieces of a virus to a lymph node and shows them to helper T cells. The one B cell whose receptor fits multiplies into plasma cells that pour out Y-shaped antibodies, and killer T cells destroy infected cells. The first time takes about a week."
+    },
+    {
+      "title": "Memory, and training without the danger",
+      "text": "Memory cells answer a second attack in a day or two, with 10–100 times more antibody. Vaccines give the same memory without the illness. When 1 − 1/R0 of people are immune, about 93% for measles, outbreaks fizzle. India has been polio-free since 2014."
+    },
+    {
+      "title": "The body's drain and filter",
+      "text": "Blood pressure pushes fluid out of capillaries; what isn't drawn back, 2–4 litres a day, drains into dead-end lymph capillaries, is pumped by moving muscles past valves, filtered in lymph nodes and returned to a neck vein. Nodes swell when they fight."
+    },
+    {
+      "title": "When defences misfire",
+      "text": "Allergies are overreactions, autoimmune diseases like type 1 diabetes attack the body itself, and HIV attacks helper T cells but can be controlled with free treatment. Antibiotics kill bacteria, not viruses. Wash hands, sleep, stay vaccinated, and see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Innate immunity",
+      "def": "Fast, general defences you are born with: barriers, inflammation and eater cells."
+    },
+    {
+      "term": "Adaptive immunity",
+      "def": "Defence that learns each germ's exact shape and remembers it."
+    },
+    {
+      "term": "Lymph node",
+      "def": "A bean-shaped filter where immune cells meet germs carried in the lymph."
+    },
+    {
+      "term": "Phagocytosis",
+      "def": "When a neutrophil or macrophage swallows and digests a germ."
+    },
+    {
+      "term": "Antigen",
+      "def": "A piece of a germ that receptors and antibodies recognise."
+    },
+    {
+      "term": "Antibody",
+      "def": "A Y-shaped protein made by plasma cells whose two tips lock onto one antigen."
+    },
+    {
+      "term": "Memory cell",
+      "def": "A long-lived lymphocyte that answers fast if the same germ returns."
+    },
+    {
+      "term": "Vaccine",
+      "def": "A harmless version or piece of a germ that trains immune memory."
+    },
+    {
+      "term": "Herd immunity",
+      "def": "When enough people are immune (1 − 1/R0) that a germ can't keep spreading."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "immuneclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 5
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "immuneclear",
+  "box": 49,
+  "question": "How does the immune system work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/immuneclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/immuneclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From plague survivors in Athens and smallpox scabs in China to cowpox, eating cells, antibodies, and the end of smallpox and polio in India.\n\n430 BCE: Survivors don’t catch it twice\n1796: Cowpox protects against smallpox\n1882: Cells that eat invaders\n1885: Weakened germs make vaccines\n1890: Antitoxin: blood that fights a poison\n1957: Clonal selection: the right cell multiplies\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/immuneclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/immuneclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #immunesystem #lymphaticsystem #whitebloodcells #antibodies #vaccines #herdimmunity #history",
+      "youtube": {
+        "title": "The history of the immune system in 45 seconds #shorts",
+        "description": "From plague survivors in Athens and smallpox scabs in China to cowpox, eating cells, antibodies, and the end of smallpox and polio in India.\n\n430 BCE · Survivors don’t catch it twice (Thucydides)\n1796 · Cowpox protects against smallpox (Edward Jenner)\n1882 · Cells that eat invaders (Élie Metchnikoff)\n1885 · Weakened germs make vaccines (Louis Pasteur and colleagues)\n1890 · Antitoxin: blood that fights a poison (Emil von Behring and Kitasato Shibasaburō)\n1957 · Clonal selection: the right cell multiplies (Frank Macfarlane Burnet)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/immuneclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/immuneclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the immune system work?\n\nEvery day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.\n\n→ Your immune system is an army of cells spread through a hidden network of vessels and organs.\n→ Immune cells are born in the bone marrow, trained in the thymus, and gather in about 600 lymph nodes.\n→ When a splinter breaks the skin, vessels widen and leak: that red, warm swelling is inflammation.\n→ Neutrophils squeeze out of the blood and swallow the bacteria whole.\n→ A dendritic cell catches the virus and shows its pieces to a helper T cell in a lymph node.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/immuneclear (link in bio)\n\nBox No. 049 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #immunesystem #lymphaticsystem #whitebloodcells #antibodies #vaccines #herdimmunity #inflammation #humanbody #biology",
+    "carousel": "Swipe through: How does the immune system work?\n\nEvery day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/immuneclear (link in bio).\n\nBox No. 049 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #immunesystem #lymphaticsystem #whitebloodcells #antibodies #vaccines #herdimmunity",
+    "youtube": {
+      "title": "How does the immune system work? #shorts",
+      "description": "Every day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/immuneclear/\n⌘ Source code (MIT): https://github.com/bdeeps/immuneclear\n\nBox No. 049 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the immune system work? (interactive explainer)",
+      "description": "Every day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/immuneclear/\n⌘ Source code (MIT): https://github.com/bdeeps/immuneclear\n\nIn this video:\n• An army spread through your body. Immune cells are born in the red bone marrow, T cells are trained in the thymus, and they gather in about 600 lymph nodes, the tonsils, the spleen and the gut's Peyer's patches.\n• Walls, fire and hungry cells. Skin, the airway's mucus escalator and stomach acid stop most germs.\n• Learning the enemy. A dendritic cell carries pieces of a virus to a lymph node and shows them to helper T cells.\n• Memory, and training without the danger. Memory cells answer a second attack in a day or two, with 10–100 times more antibody.\n• The body's drain and filter. Blood pressure pushes fluid out of capillaries; what isn't drawn back, 2–4 litres a day, drains into dead-end lymph capillaries, is pumped by moving muscles past valves, filtered in lymph nodes and returned to a neck vein.\n• When defences misfire. Allergies are overreactions, autoimmune diseases like type 1 diabetes attack the body itself, and HIV attacks helper T cells but can be controlled with free treatment.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the immune system work?\n\nEvery day your marrow makes about 100 billion new defenders.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/immuneclear/",
+    "linkedin": "How does the immune system work?\n\nEvery day your marrow makes about 100 billion new defenders. Push a dirty splinter into the skin and watch neutrophils eat the bacteria, find the one B cell whose receptor fits a virus, and slide a crowd past measles' 93% herd-immunity line.\n\n1. An army spread through your body\n2. Walls, fire and hungry cells\n3. Learning the enemy\n4. Memory, and training without the danger\n5. The body's drain and filter\n6. When defences misfire\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 049 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/immuneclear/\nCode: https://github.com/bdeeps/immuneclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T22:27:14.036Z"
+}
